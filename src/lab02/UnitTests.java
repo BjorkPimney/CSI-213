@@ -1,4 +1,4 @@
-package csi213.lab02;
+package lab02;
 
 import static org.junit.Assert.*;
 

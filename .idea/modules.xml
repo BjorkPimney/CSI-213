@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSI-213.iml" filepath="$PROJECT_DIR$/CSI-213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csi213.iml" filepath="$PROJECT_DIR$/csi213.iml" />
     </modules>
   </component>
 </project>

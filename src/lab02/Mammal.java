@@ -1,4 +1,4 @@
-package csi213.lab02;
+package lab02;
 
 /**
  * A {@code Mammal} represents an animal with a body temperature. Subclasses
